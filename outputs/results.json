@@ -1,0 +1,311 @@
+[
+  {
+    "frame": 0,
+    "text": "TARUN 11213141516 J 8 9 10 X 5-F=74- 15 20 2] 3] 8 -b-7181 X4g: M 92z8 1 Z0 3) 48 54 61l1 /18 - 7 25 3 2.5",
+    "confidence": 0.6978828499307884,
+    "parsed": {
+      "overs": "2.5"
+    }
+  },
+  {
+    "frame": 5,
+    "text": "TARUN 1 1213141516 7 | 8 9 10 X 5-674- 15 20 Z] B] 8 -b-17181 X84g: I 92&8 1 Z0 3) 48 54 61l1 /18 - 7 |25 3 2.5",
+    "confidence": 0.6157250193613524,
+    "parsed": {
+      "overs": "2.5"
+    }
+  },
+  {
+    "frame": 10,
+    "text": "TARUN 1 12| 314151617 L8 9 10 TTL X 5-=74- 15 20 Z] B] 8 -b-7181 8 I 19) 28 x0 499 3) 9864 1 6 1l1 /18 - 7 | 25 3 2.5",
+    "confidence": 0.5963879969925909,
+    "parsed": {
+      "overs": "2.5"
+    }
+  },
+  {
+    "frame": 15,
+    "text": "TARUN 1 |21 314151611 L8 9 10 TTL X 5-=74- 15 20 Z] B] 8 -b-17181 8 M 19 28 30 499 3) 9864 1 61l1 /18 - 7 | 25 3 2.5",
+    "confidence": 0.6305361439679202,
+    "parsed": {
+      "overs": "2.5"
+    }
+  },
+  {
+    "frame": 20,
+    "text": "TARUN 1 | 2 | 3 | 4 5 6 I7 | 8 9 10 TTL X 5-=74- 15 20 Z] B] 8 -3-17181 8 1 19) 28 30 499 3) 9864 1 6 1l1 /18- 7 25 3 2.5",
+    "confidence": 0.6420939435178412,
+    "parsed": {
+      "player": "TARUN",
+      "runs": "1",
+      "balls": "2",
+      "fours": "3"
+    }
+  },
+  {
+    "frame": 25,
+    "text": "TARUN 1 | 2 | 3 | 4 5 6 7L8 9 10 TTL X 5-=74- 15 20 Z] 3] 8 -3-17181 8 1 19) 28 0/3998 & 3) 48 54 1 6 1l1 /18- 7 25 3 2.5",
+    "confidence": 0.6542855274982039,
+    "parsed": {
+      "player": "TARUN",
+      "runs": "1",
+      "balls": "2",
+      "fours": "3"
+    }
+  },
+  {
+    "frame": 30,
+    "text": "TARUN 1 | 2 | 3 | 4 5 6 7 | 8 9 10 TTL X 5-=74- 15 20 Z] 3] 8 -8-17181 8 I 19) 28 30/3998 & 3) 48 54 1 6 1l1 /18- 7 25 3 2.5",
+    "confidence": 0.6510357761982376,
+    "parsed": {
+      "player": "TARUN",
+      "runs": "1",
+      "balls": "2",
+      "fours": "3"
+    }
+  },
+  {
+    "frame": 35,
+    "text": "TARUN 1 | 2 | 3 | 4 5 6 7 | 8 9 10 TTL X 5-=74- 15 20 Z] 3] 8 -3-7181 8 # 19 28 30/3998 & 3) 48 54 1 6 1l1 /18 - 7 | 25 3 2.5",
+    "confidence": 0.6365481561802626,
+    "parsed": {
+      "player": "TARUN",
+      "runs": "1",
+      "balls": "2",
+      "fours": "3"
+    }
+  },
+  {
+    "frame": 40,
+    "text": "TARUN 1 | 2 | 3 | 4 5 6 7 | 8 9 10 TTL X 5-=74- 15 20 Z] 3] 8 -b3-17181 8 # 19) 28 30 49%8 & 3) 48 54 1 6 1l1 /18- 7 25 3 2.5",
+    "confidence": 0.6584125062410094,
+    "parsed": {
+      "player": "TARUN",
+      "runs": "1",
+      "balls": "2",
+      "fours": "3"
+    }
+  },
+  {
+    "frame": 45,
+    "text": "TARUN 1 | 2 3 1415 16 7 | 8 9 10 TTL X 5-=74- 15 20 Z] 3] 8 -3-17181 8 11 19) 28 30 49%8 & 3) 48 54 1 6 1l1 /18 - 7 25 3 2.5",
+    "confidence": 0.6528494997755437,
+    "parsed": {
+      "overs": "2.5"
+    }
+  },
+  {
+    "frame": 50,
+    "text": "TARUN 1 | 2 3 | 4 5  6 7L8 9 10 TTL X 5-=74- 15 20 Z] 3] 8 -3-17181 8 I1 19) 28 30 49%8 & 3) 48 54 1 6 1l1 /18- 7 25 3 2.5",
+    "confidence": 0.6774777512137791,
+    "parsed": {
+      "overs": "2.5"
+    }
+  },
+  {
+    "frame": 55,
+    "text": "TARUN 1 | 2 3 | 4 5 | 6 7LB 9 10 TTL X 5-=74- 15 20 Z] 3] 8 -3-17181 8 # 19) 28 30 42%8 & 3) 48 54 1 6 1l1 /18- 7 25 3 2.5",
+    "confidence": 0.6678397562492641,
+    "parsed": {
+      "overs": "2.5"
+    }
+  },
+  {
+    "frame": 60,
+    "text": "TARUN 1  2 3 | 4 | 5 | 6 7 | 8 9 10 TTL X 5-=74- 15 20 Z] 3] 8 -3-17181 8 I 19) 28 0/3998 & 3) 48 54 1 6 1l1 /18- 7 25 3 2.5",
+    "confidence": 0.679015119862985,
+    "parsed": {
+      "player": "TARUN",
+      "runs": "3",
+      "balls": "4",
+      "fours": "5"
+    }
+  },
+  {
+    "frame": 65,
+    "text": "TARUN 1 | 2 3 | 4 5 6 7 | 8 9 10 TTL X 5-=74- 15 20 Z] 3] 8 -3-17181 8 # 19) 28 30 49%8 & 3) 48 54 1 61l1 /18- 7 | 25 3 2.5",
+    "confidence": 0.6671918554486683,
+    "parsed": {
+      "overs": "2.5"
+    }
+  },
+  {
+    "frame": 70,
+    "text": "TARUN 1 | 2 3 | 4 5 6 7 | 8 9 10 TTL X 5-=74- 15 20 Z] 3] 8 -3-17181 8 I 19) 28 30 42%8 & 3) 48 54 1 6 1l1 /18 - 7 | 25 3 2.5",
+    "confidence": 0.6382789832299083,
+    "parsed": {
+      "overs": "2.5"
+    }
+  },
+  {
+    "frame": 75,
+    "text": "TARUN 1 | 2 3 | 4 5 6 7 | 8 9 10 TTL X 5-=74- 15 20 Z] 3] 8 -b3-17181 8 I 19) 28 30 42%8 & 3) 48 54 1 61l1 /18- 7 25 3 2.5",
+    "confidence": 0.668530725713036,
+    "parsed": {
+      "overs": "2.5"
+    }
+  },
+  {
+    "frame": 80,
+    "text": "TARUN 1 | 2 3 | 4 5 6 7 | 8 9 10 TTL X 5-=74- 15 20 Z] 3] 8 -b-17181 8 # 19) 28 30 4298 6 3) 48 54 1 6 1l1 /18- 7 25 3 2.5",
+    "confidence": 0.665701772988804,
+    "parsed": {
+      "overs": "2.5"
+    }
+  },
+  {
+    "frame": 85,
+    "text": "TARUN 1 | 2 3 | 4 5 6 7 | 8 9 10 TTL X 5-=74- 15 20 Z] 3] 8 -3-17181 8 # 19) 28 30 4298 & 3) 48 54 1 6 1l1 /18- 7 25 3 2.5",
+    "confidence": 0.6892105074891299,
+    "parsed": {
+      "overs": "2.5"
+    }
+  },
+  {
+    "frame": 90,
+    "text": "TARUN 1 | 2 3 | 4 5  6 7 | 8 9 10 TTL X 5-=74- 15 20 Z] 3] 8 -b-17181 8 # 19) 28 x0/3998 & 3) 48 54 1 6 1l1 /18- 7 25 3 2.5",
+    "confidence": 0.6915316968534396,
+    "parsed": {
+      "overs": "2.5"
+    }
+  },
+  {
+    "frame": 95,
+    "text": "TARUN 1 | 2 3 | 4 5 6 7 | 8 9 10 TTL X 5-=74- 15 20 Z] 3] 8 -3-17181 8 # 19) 28 x0/3998 & 3) 48 54 1 6 1l1 /18 - 7 25 3 2.5",
+    "confidence": 0.7020800151561244,
+    "parsed": {
+      "overs": "2.5"
+    }
+  },
+  {
+    "frame": 100,
+    "text": "TARUN 1 | 2 3 | 4 5  6 7 | 8 9 10 TTL X 5-=74- 15 20 Z] 3] 8 -b-17181 8 # 19) 28 x0/3998 & 3) 48 54 1 6 1l1 /18- 7 25 3 2.5",
+    "confidence": 0.6878724207344258,
+    "parsed": {
+      "overs": "2.5"
+    }
+  },
+  {
+    "frame": 105,
+    "text": "TARUN 1 | 2 | 3 | 4 5 6 7 | 8 9 10 TTL X 5-=74- 15 20 Z] 3] 8 -b-17181 8 11 19) 28 x0/398 & 3) 48 54 1 6 1l1 /18- 7 25 3 2.5",
+    "confidence": 0.7164406668556352,
+    "parsed": {
+      "player": "TARUN",
+      "runs": "1",
+      "balls": "2",
+      "fours": "3"
+    }
+  },
+  {
+    "frame": 110,
+    "text": "TARUN 1 | 2 3 | 4 5 | 6 7| 8 9 10 TTL X 5-=74- 15 20 Z] 3] 8 -b-17181 8 # 19) 28 x0/398 & 3) 48 54 1 6 1l1 /18- 7 25 3 2.5",
+    "confidence": 0.6941443478652739,
+    "parsed": {
+      "overs": "2.5"
+    }
+  },
+  {
+    "frame": 115,
+    "text": "TARUN 1 | 2 3 | 4 5  6 7 | 8 9 10 TTL X 5-674- 15 20 Z] 3] 8 -b-17181 8 # 19) 28 x0/3998 & 3) 48 54 1 6 1l1 /18 - 7 25 3 2.5",
+    "confidence": 0.6962560560750364,
+    "parsed": {
+      "overs": "2.5"
+    }
+  },
+  {
+    "frame": 120,
+    "text": "BrunswickB",
+    "confidence": 0.9717861007959357,
+    "parsed": null
+  },
+  {
+    "frame": 125,
+    "text": "BrunswickB",
+    "confidence": 0.9724060040452941,
+    "parsed": null
+  },
+  {
+    "frame": 130,
+    "text": "BrunswickB",
+    "confidence": 0.9688337310415871,
+    "parsed": null
+  },
+  {
+    "frame": 135,
+    "text": "BrunswickB",
+    "confidence": 0.9803966464707897,
+    "parsed": null
+  },
+  {
+    "frame": 140,
+    "text": "BrunswickB",
+    "confidence": 0.9792980816348674,
+    "parsed": null
+  },
+  {
+    "frame": 145,
+    "text": "BrunswickB",
+    "confidence": 0.9862205723389998,
+    "parsed": null
+  },
+  {
+    "frame": 150,
+    "text": "BrunswickB",
+    "confidence": 0.9739248233417221,
+    "parsed": null
+  },
+  {
+    "frame": 155,
+    "text": "BrunswickB",
+    "confidence": 0.9826792621461332,
+    "parsed": null
+  },
+  {
+    "frame": 160,
+    "text": "BrunswickB",
+    "confidence": 0.9859107857986488,
+    "parsed": null
+  },
+  {
+    "frame": 165,
+    "text": "BrunswickB",
+    "confidence": 0.9831774157560753,
+    "parsed": null
+  },
+  {
+    "frame": 170,
+    "text": "BrunswickB",
+    "confidence": 0.9813435791255861,
+    "parsed": null
+  },
+  {
+    "frame": 175,
+    "text": "BrunswickB",
+    "confidence": 0.9248724397563484,
+    "parsed": null
+  },
+  {
+    "frame": 180,
+    "text": "BrunswickB",
+    "confidence": 0.9818253239204663,
+    "parsed": null
+  },
+  {
+    "frame": 185,
+    "text": "BrunswickB",
+    "confidence": 0.9790719781300847,
+    "parsed": null
+  },
+  {
+    "frame": 190,
+    "text": "BrunswickB",
+    "confidence": 0.9824783295043893,
+    "parsed": null
+  },
+  {
+    "frame": 195,
+    "text": "BrunswickB",
+    "confidence": 0.9834817263563894,
+    "parsed": null
+  }
+]
