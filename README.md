@@ -80,6 +80,7 @@ Visual Studio Code
 Git
 GitHub
 
+
 📂 Project Structure
 COMPUTER-VISION-ENGINEER-PROJECT/
 │
@@ -104,6 +105,7 @@ COMPUTER-VISION-ENGINEER-PROJECT/
 ├── requirements.txt
 └── sample_frame.jpg
 
+
 Component Description
 
 data/bowling_scoreboard.mp4	Input cricket scoreboard video
@@ -114,6 +116,7 @@ outputs/results.json	Structured JSON results
 outputs/results.csv	Tabular CSV results
 sample_frame.jpg	Sample input frame
 tests/	Test package directory
+
 
 ⚙️ Implementation Details
 1. Video Processing
@@ -212,8 +215,6 @@ OCR text
 OCR confidence
 Parsed scoreboard information
 
-
-
 🚀 Installation
 Prerequisites
 Install:
@@ -249,7 +250,6 @@ pytest
 
 ▶️ Run the Application
 Make sure the input video exists at:
-
 data/bowling_scoreboard.mp4
 
 Run:
@@ -277,7 +277,6 @@ Player: TARUN
 Overs: 2.5
 The generated JSON and CSV files additionally contain OCR text, confidence values and parsed information for the processed frames.
 
-
 📷 Documentation
 The assessment documentation PDF contains screenshots demonstrating the project workflow, including:
 
@@ -294,9 +293,7 @@ OCR/extracted text
 JSON output
 
 CSV output
-
 Final extracted results
-
 GitHub repository
 
 
