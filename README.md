@@ -6,7 +6,7 @@ The project processes the provided `bowling_scoreboard.mp4` cricket video, sampl
 ## 🎯 Objective
 The objective of this project is to extract scoreboard information from the supplied cricket video as accurately as possible using a Python-based Computer Vision and OCR pipeline.
 
-The implementation focuses on:
+The implementation focuses on: 
 - Video processing using OpenCV
 - Frame sampling
 - Configured Scoreboard Region of Interest (ROI)
