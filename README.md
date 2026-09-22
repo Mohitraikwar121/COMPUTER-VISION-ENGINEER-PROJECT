@@ -1,4 +1,4 @@
-# 🏏 Cricket Scoreboard Data Extraction from Video 
+# 🏏 Cricket Scoreboard Data Extraction from Video  
 A Computer Vision and OCR-based solution developed for the **Round 1 – Computer Vision Engineer Assessment at FOG**.
 
 The project processes the provided `bowling_scoreboard.mp4` cricket video, samples video frames, extracts the configured scoreboard region, performs OCR using **EasyOCR**, parses the recognized scoreboard text, and generates structured **JSON** and **CSV** output.
