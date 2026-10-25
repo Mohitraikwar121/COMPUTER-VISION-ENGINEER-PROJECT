@@ -3,7 +3,7 @@ A Computer Vision and OCR-based solution developed for the **Round 1 – Compute
                                        
 The project processes the provided `bowling_scoreboard.mp4` cricket video, samples video frames, extracts the configured scoreboard region, performs OCR using **EasyOCR**, parses the recognized scoreboard text, and generates structured **JSON** and **CSV** output.
    
-## 🎯 Objective   
+## 🎯 Objective    
 The objective of this project is to extract scoreboard information from the supplied cricket video as accurately as possible using a Python-based Computer Vision and OCR pipeline.
    
 The implementation focuses on: 
